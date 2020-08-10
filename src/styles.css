@@ -872,3 +872,17 @@
 	font-size: 30px;
 	color: rgba(255,255,255,1);
 }
+#How_Services_Work {
+	left: 520px;
+	top: 1800px;
+	position: absolute;
+	overflow: visible;
+	width: 427px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
